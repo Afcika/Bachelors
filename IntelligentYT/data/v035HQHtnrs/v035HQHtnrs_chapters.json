@@ -1,0 +1,43 @@
+{
+    "video_id": "v035HQHtnrs",
+    "chapter_count": 4,
+    "chapters": [
+        {
+            "chapter_id": 1,
+            "start": 0.37,
+            "end": 34.97,
+            "duration": 34.6,
+            "title": "What is a typical day for you? So usually I wake up...",
+            "text": "What is a typical day for you? So usually I wake up at 7 and then I have my breakfast and go to school, which starts at half past 8, and then I have some lessons and I have my lunch and go back home. A typical day for me is to get up around 7 o'clock, have breakfast, get my children ready for school, and then take the kids to school, then I'll get the bus at about 9 o'clock, get into work at about 10 o'clock, and I always start the day with a coffee at my desk,",
+            "segment_count": 6
+        },
+        {
+            "chapter_id": 2,
+            "start": 35.47,
+            "end": 69.95,
+            "duration": 34.48,
+            "title": "and then check emails, do my job, and I'll have lunch around...",
+            "text": "and then check emails, do my job, and I'll have lunch around 12 o'clock until about half past 12, finish work at 6 o'clock, get the bus home, and then have dinner with my family. We always have dinner together, and then put the children to bed, and then I can relax. I usually wake up at about 6.30 in the morning, I go jogging every morning, and then I arrive at work at about 9 o'clock, finish work at about 5 o'clock,",
+            "segment_count": 5
+        },
+        {
+            "chapter_id": 3,
+            "start": 70.09,
+            "end": 101.42,
+            "duration": 31.33,
+            "title": "and then have dinner at about 7 o'clock, and then I usually...",
+            "text": "and then have dinner at about 7 o'clock, and then I usually go to bed at about 9. I normally get up at 7.30, then I have a shower, then I take the bus to work. I usually start work at about 9.30, and I finish at 5.30. After work, I walk home, then when I'm at home, I cook dinner, and in the evening, I usually watch a film or read a book.",
+            "segment_count": 5
+        },
+        {
+            "chapter_id": 4,
+            "start": 101.42,
+            "end": 115.76,
+            "duration": 14.34,
+            "title": "I get up at 7 a.m. in the morning and usually have...",
+            "text": "I get up at 7 a.m. in the morning and usually have eggs for breakfast. Sometimes I go swimming before work, but if I don't, I get ready for work and go to work at 9 a.m., and then I get off at 5 p.m.",
+            "segment_count": 3
+        }
+    ],
+    "created_at": "2026-05-19 13:16:21"
+}
