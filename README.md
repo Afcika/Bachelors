@@ -6,6 +6,7 @@ venv\Scripts\activate
 python.exe -m pip install --upgrade pip
 
 
+
 Then:
 go to https://console.groq.com/keys generate api key
 then create .env in root folder and paste
