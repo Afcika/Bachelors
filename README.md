@@ -1,0 +1,21 @@
+
+Terminal:
+cd IntelligentYt
+python -m venv venv
+venv\Scripts\activate
+python.exe -m pip install --upgrade pip
+
+
+Then:
+go to https://console.groq.com/keys generate api key
+then create .env in root folder and paste
+GROQ_API_KEY="your Groq Api key"
+
+
+Terminal:
+pip install loguru streamlit yt-dlp faster-whisper pydub audioop-lts torch torchvision torchaudio sentence-transformers groq python-dotenv faiss-cpu
+
+
+
+run:
+streamlit run app.py
